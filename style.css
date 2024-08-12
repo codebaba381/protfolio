@@ -268,7 +268,7 @@ span{
     }
 }
 
-/* Adding some specific styles for the services page */
+/* Adding styles for the services section */
 .services {
     min-height: 100vh;
     padding: 5rem 9%;
@@ -295,5 +295,8 @@ span{
 }
 
 .service-item p {
+    font-size: 1.6rem;
+}
+
     font-size: 1.6rem;
 }
