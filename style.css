@@ -268,3 +268,32 @@ span{
     }
 }
 
+/* Adding some specific styles for the services page */
+.services {
+    min-height: 100vh;
+    padding: 5rem 9%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.services h1 {
+    font-size: 4rem;
+    margin-bottom: 3rem;
+    font-weight: 700;
+}
+
+.service-item {
+    margin-bottom: 3rem;
+}
+
+.service-item h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    color: #b74b4b;
+}
+
+.service-item p {
+    font-size: 1.6rem;
+}
